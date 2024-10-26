@@ -2,7 +2,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Arlet+Ortiz!;" />
 </h1>
 <div align="center">
-🌱 ¡Hola! Soy una tester apasionada con experiencia en desarrollo de software, pruebas manuales y automatizadas. He trabajado en proyectos utilizando lenguajes como Java y Python, donde he podido aportar mi enfoque en la calidad y la innovación.
+🌱 ¡Hola! Soy Arlet Ortiz, una tester apasionada con experiencia en desarrollo de software, pruebas manuales y automatizadas. He trabajado en proyectos utilizando lenguajes como Java y Python, donde he podido aportar mi enfoque en la calidad y la innovación.
 
 🚀 Me encanta crear soluciones efectivas y contribuir a proyectos de código abierto. Siempre estoy buscando oportunidades para aprender y colaborar con otros entusiastas de la programación.
 
